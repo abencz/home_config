@@ -1,0 +1,14 @@
+[user]
+	name = Alex Bencz
+	email = abencz@gmail.com
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	ui = auto
+[core]
+	quotepath = false
+	excludefile = /Users/alex/.gitignore
+[alias]
+	ll = log --graph --decorate --pretty=oneline --abbrev-commit
+	lla = log --graph --decorate --pretty=oneline --abbrev-commit --all
