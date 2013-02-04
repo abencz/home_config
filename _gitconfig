@@ -12,3 +12,6 @@
 [alias]
 	ll = log --graph --decorate --pretty=oneline --abbrev-commit
 	lla = log --graph --decorate --pretty=oneline --abbrev-commit --all
+	set-name = config --global user.name
+	set-email = config --global user.email
+	fetchm = fetch --multiple
